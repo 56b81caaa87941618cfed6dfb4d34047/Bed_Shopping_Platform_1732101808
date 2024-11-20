@@ -692,5 +692,15 @@
         "source": "base_assistant",
         "content": "To add a copy to the title, please provide the text you'd like to include.",
         "metadata": {}
+    },
+    {
+        "id": "be19311a-b228-47f4-add9-a6d829811a8c",
+        "timestamp": "2024-11-20T15:47:48.340005Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "\"YESS\"",
+        "metadata": {
+            "component_id": "Footer1732101811"
+        }
     }
 ]
