@@ -558,5 +558,15 @@
         "source": "base_assistant",
         "content": "If the image does not appear to be small, you can manually resize it by selecting and dragging its corners. Let me know if there is anything specific you'd like to adjust further!",
         "metadata": {}
+    },
+    {
+        "id": "1d949a52-14b6-4b62-b050-3d37bd1feff9",
+        "timestamp": "2024-11-20T12:04:23.320697Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "add a small image of a banana in the center",
+        "metadata": {
+            "component_id": "Header1732101811"
+        }
     }
 ]
