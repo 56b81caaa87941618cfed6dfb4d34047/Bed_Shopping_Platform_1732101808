@@ -10,6 +10,7 @@ const Hero: React.FC = () => {
 
   return (
     <div className="bg-black py-16 text-white w-full h-full">
+      <h1 className="text-4xl font-bold text-center mb-8">Welcome to Bed Shopping</h1>
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <h1 className="text-4xl font-bold mb-4">wii</h1>
