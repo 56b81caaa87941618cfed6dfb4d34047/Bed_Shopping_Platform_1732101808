@@ -412,5 +412,13 @@
         "metadata": {
             "component_id": "Footer1732101811"
         }
+    },
+    {
+        "id": "bb1298e8-5d7c-45b2-a659-9ca33d43e025",
+        "timestamp": "2024-11-20T11:39:58.209611Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "To add a small image to the center of the form, please provide a description for the image you'd like.",
+        "metadata": {}
     }
 ]
