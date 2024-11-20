@@ -159,5 +159,15 @@
         "source": "base_assistant",
         "content": "The header text has been updated to 'WIII'. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "9a1d9202-9183-44b1-b41a-47540a9ab6ad",
+        "timestamp": "2024-11-20T11:31:49.294738Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you to add a small image on the center",
+        "metadata": {
+            "component_id": "Header1732101811"
+        }
     }
 ]
