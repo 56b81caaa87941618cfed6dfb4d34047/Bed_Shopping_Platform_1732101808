@@ -220,5 +220,13 @@
         "metadata": {
             "tool_call_id": "call_IZ8ylq8mMtl20cwylw3cHtQl"
         }
+    },
+    {
+        "id": "37760c7d-c55b-420c-8f93-a820133da727",
+        "timestamp": "2024-11-20T11:32:26.583464Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "A small image has been added to the center of the header. What would you like to do next?",
+        "metadata": {}
     }
 ]
