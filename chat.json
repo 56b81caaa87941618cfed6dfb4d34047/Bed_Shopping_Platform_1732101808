@@ -420,5 +420,15 @@
         "source": "base_assistant",
         "content": "To add a small image to the center of the form, please provide a description for the image you'd like.",
         "metadata": {}
+    },
+    {
+        "id": "d3fd2299-2939-4e56-9d41-6b35f9813ac2",
+        "timestamp": "2024-11-20T11:40:08.423192Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "of a rainbow",
+        "metadata": {
+            "component_id": "Footer1732101811"
+        }
     }
 ]
