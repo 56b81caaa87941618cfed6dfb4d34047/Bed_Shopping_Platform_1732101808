@@ -333,5 +333,15 @@
         "source": "base_assistant",
         "content": "To add a form, please go to the \"Components\" tab and drag and drop the form component into the canvas. Once it's added, I can help you customize it to check the color of the bed the user wants.",
         "metadata": {}
+    },
+    {
+        "id": "774a3767-82b5-4c8d-9a25-006d6513154c",
+        "timestamp": "2024-11-20T11:37:55.246939Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "It is just a form, you have to createit",
+        "metadata": {
+            "component_id": "Footer1732101811"
+        }
     }
 ]
