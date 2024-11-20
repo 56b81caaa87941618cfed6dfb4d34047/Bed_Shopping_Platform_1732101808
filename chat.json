@@ -684,5 +684,13 @@
         "metadata": {
             "component_id": "Footer1732101811"
         }
+    },
+    {
+        "id": "83dbc0fb-2c81-4507-bbff-58d2e7afcaed",
+        "timestamp": "2024-11-20T15:47:42.780839Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "To add a copy to the title, please provide the text you'd like to include.",
+        "metadata": {}
     }
 ]
