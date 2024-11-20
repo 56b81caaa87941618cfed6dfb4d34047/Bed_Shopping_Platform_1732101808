@@ -8,17 +8,17 @@ const Footer: React.FC = () => {
           
           {/* FOOTER COPY */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h3 className="text-xl font-bold mb-2">DreamBed</h3>
-            <p className="text-gray-400">© 2023 DreamBed. Rest easy with our curated selection of quality beds.</p>
+            <h3 className="text-xl font-bold mb-2">WIII</h3>
+            <p className="text-gray-400">WIII</p>
           </div>
 
           {/* SOCIALS */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h4 className="text-lg font-semibold mb-2">Follow Us</h4>
+            <h4 className="text-lg font-semibold mb-2">WIII</h4>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white">Facebook</a>
-              <a href="#" className="text-gray-400 hover:text-white">Twitter</a>
-              <a href="#" className="text-gray-400 hover:text-white">Instagram</a>
+              <a href="#" className="text-gray-400 hover:text-white">WIII</a>
+              <a href="#" className="text-gray-400 hover:text-white">WIII</a>
+              <a href="#" className="text-gray-400 hover:text-white">WIII</a>
             </div>
           </div>
         </div>
