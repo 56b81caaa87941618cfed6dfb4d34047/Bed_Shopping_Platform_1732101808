@@ -4,7 +4,7 @@ const Footer: React.FC = () => {
   return (
     <footer className="bg-gray-800 text-white p-8 w-full h-full"> {/* Full width and height */}
       <div className="container mx-auto h-full flex flex-col items-center justify-center">
-        <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Bed_Shopping_Platform_1732101808/main/src/assets/images/4de222f637004f00b5e80dea4abcb2aa.jpeg" alt="Footer Image" className="mb-6" />
+        <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Bed_Shopping_Platform_1732101808/main/src/assets/images/3b84c12f43e94437b9fcb6bcc97c6dd5.jpeg" alt="Footer Image" className="mb-6 max-w-full h-auto" />
         
         <div className="flex flex-wrap justify-between w-full">
           {/* FOOTER COPY */}
