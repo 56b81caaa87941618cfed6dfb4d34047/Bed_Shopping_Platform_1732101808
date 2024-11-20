@@ -18,6 +18,9 @@ const Hero: React.FC = () => {
         <div className="md:w-1/2">
           <form onSubmit={handleSubmit} className="bg-gray-800 p-6 rounded-lg shadow-md">
             <h2 className="text-2xl font-bold mb-4">Check Bed Color</h2>
+            <div className="flex justify-center mb-4">
+              <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Bed_Shopping_Platform_1732101808/main/src/assets/images/12e36767f97241d1b2bd8b88a41800d2.jpeg" alt="Generated Image" className="max-w-full h-auto rounded-lg" />
+            </div>
             <div className="mb-4">
               <label htmlFor="bedColor" className="block text-sm font-medium mb-2">
                 <i className='bx bx-palette mr-2'></i>
