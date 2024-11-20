@@ -481,5 +481,13 @@
         "metadata": {
             "component_id": "Footer1732101811"
         }
+    },
+    {
+        "id": "9264ceb1-7013-4779-bdcb-9aa35c91fa24",
+        "timestamp": "2024-11-20T11:49:03.120903Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Currently, the only possible way to reposition or resize components in MakeInfinite studio is by selecting them and dragging them manually. Please select the image and drag it to the desired position at the center of the form. Let me know if you need further assistance!",
+        "metadata": {}
     }
 ]
