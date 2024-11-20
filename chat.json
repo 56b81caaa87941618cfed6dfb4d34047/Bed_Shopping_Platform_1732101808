@@ -108,5 +108,15 @@
         "source": "base_assistant",
         "content": "The hero text has been updated to 'WIII'. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "3daccf9a-5d22-4d94-9521-1201589a0f2a",
+        "timestamp": "2024-11-20T11:25:44.664831Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change the copy to WIII",
+        "metadata": {
+            "component_id": "Header1732101811"
+        }
     }
 ]
