@@ -256,5 +256,13 @@
         "metadata": {
             "component_id": "Footer1732101811"
         }
+    },
+    {
+        "id": "572909a2-c0bc-4d20-9919-c2d54b4a0916",
+        "timestamp": "2024-11-20T11:34:37.920197Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "To add a form to check the color of the bed, go to the \"Components\" tab, drag and drop the form component into the canvas. Once it's added, I can help you customize it further.",
+        "metadata": {}
     }
 ]
