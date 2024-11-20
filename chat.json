@@ -384,5 +384,15 @@
         "source": "tool:EditFrontendComponent",
         "content": "Adding a form to check bed color preference...",
         "metadata": {}
+    },
+    {
+        "id": "dea43801-ad73-4da7-8c83-d90b6a7fce6e",
+        "timestamp": "2024-11-20T11:38:27.660313Z",
+        "role": "tool_result",
+        "source": "EditFrontendComponent",
+        "content": "diff --git a/src/ProjectComponents/Hero1732101811/component.tsx b/src/ProjectComponents/Hero1732101811/component.tsx\nindex 4451f67..ac11bed 100644\n--- a/src/ProjectComponents/Hero1732101811/component.tsx\n+++ b/src/ProjectComponents/Hero1732101811/component.tsx\n@@ -1,7 +1,13 @@\n-import React from 'react';\n+import React, { useState } from 'react';\n \n const Hero: React.FC = () => {\n-  \n+  const [bedColor, setBedColor] = useState('');\n+\n+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {\n+    e.preventDefault();\n+    console.log(`Bed color: ${bedColor}`);\n+  };\n+\n   return (\n     <div className=\"bg-black py-16 text-white w-full h-full\">\n       <div className=\"container mx-auto px-4 flex flex-col md:flex-row items-center h-full\">\n@@ -9,6 +15,32 @@ const Hero: React.FC = () => {\n           <h1 className=\"text-4xl font-bold mb-4\">wii</h1>\n           <p className=\"text-xl mb-6\">WIII</p>\n         </div>\n+        <div className=\"md:w-1/2\">\n+          <form onSubmit={handleSubmit} className=\"bg-gray-800 p-6 rounded-lg shadow-md\">\n+            <h2 className=\"text-2xl font-bold mb-4\">Check Bed Color</h2>\n+            <div className=\"mb-4\">\n+              <label htmlFor=\"bedColor\" className=\"block text-sm font-medium mb-2\">\n+                <i className='bx bx-palette mr-2'></i>\n+                Bed Color\n+              </label>\n+              <input\n+                type=\"text\"\n+                id=\"bedColor\"\n+                value={bedColor}\n+                onChange={(e) => setBedColor(e.target.value)}\n+                className=\"w-full px-3 py-2 bg-gray-700 text-white rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500\"\n+                placeholder=\"Enter bed color\"\n+              />\n+            </div>\n+            <button\n+              type=\"submit\"\n+              className=\"w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md transition duration-300\"\n+            >\n+              <i className='bx bx-check mr-2'></i>\n+              Check Color\n+            </button>\n+          </form>\n+        </div>\n       </div>\n     </div>\n   );\n",
+        "metadata": {
+            "tool_call_id": "call_F67UPU3zgl0vlivyHGZCnNNL"
+        }
     }
 ]
