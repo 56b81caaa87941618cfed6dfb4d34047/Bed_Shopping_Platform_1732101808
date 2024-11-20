@@ -609,5 +609,13 @@
         "source": "base_assistant",
         "content": "A small banana image has been added to the center of the footer. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "8f6c4d9e-c09e-4dcf-9b14-954168d4da9d",
+        "timestamp": "2024-11-20T15:47:06.276667Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "put a title",
+        "metadata": {}
     }
 ]
