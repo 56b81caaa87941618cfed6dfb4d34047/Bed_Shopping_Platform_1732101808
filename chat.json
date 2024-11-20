@@ -169,5 +169,13 @@
         "metadata": {
             "component_id": "Header1732101811"
         }
+    },
+    {
+        "id": "8c3eb560-c7a1-45e0-9538-7e6927ff511a",
+        "timestamp": "2024-11-20T11:31:51.983065Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "To add a small image to the center of the header, please go to the \"Components\" tab, drag and drop the image component into the canvas, then let me know the image description you'd like.",
+        "metadata": {}
     }
 ]
