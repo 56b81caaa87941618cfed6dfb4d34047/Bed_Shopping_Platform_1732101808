@@ -315,5 +315,15 @@
         "source": "base_assistant",
         "content": "The hero title has been updated to \"wii\". What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "2d409dd7-f7f9-478a-8c3c-01b9b36ffc76",
+        "timestamp": "2024-11-20T11:37:18.694106Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want a form to check the color of the bed the user wants",
+        "metadata": {
+            "component_id": "Footer1732101811"
+        }
     }
 ]
