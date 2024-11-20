@@ -177,5 +177,15 @@
         "source": "base_assistant",
         "content": "To add a small image to the center of the header, please go to the \"Components\" tab, drag and drop the image component into the canvas, then let me know the image description you'd like.",
         "metadata": {}
+    },
+    {
+        "id": "36198d89-d43e-4940-9388-0336d7a67da3",
+        "timestamp": "2024-11-20T11:32:02.039259Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you to add a small image on the center",
+        "metadata": {
+            "component_id": "Hero1732101811"
+        }
     }
 ]
