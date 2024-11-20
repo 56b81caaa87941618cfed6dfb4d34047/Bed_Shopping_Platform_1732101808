@@ -228,5 +228,15 @@
         "source": "base_assistant",
         "content": "A small image has been added to the center of the header. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "761fe364-725c-4eab-b738-10d1123f51f3",
+        "timestamp": "2024-11-20T11:34:04.384885Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want a forms to check the color of the bed I want",
+        "metadata": {
+            "component_id": "Hero1732101811"
+        }
     }
 ]
