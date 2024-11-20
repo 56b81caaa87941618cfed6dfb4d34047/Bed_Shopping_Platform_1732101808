@@ -625,5 +625,13 @@
         "source": "base_assistant",
         "content": "To add a title, please specify the title text and where you'd like it to be placed.",
         "metadata": {}
+    },
+    {
+        "id": "4b75ad86-22e8-4afb-83b1-7a93bc6c69f2",
+        "timestamp": "2024-11-20T15:47:16.756060Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "on the hero",
+        "metadata": {}
     }
 ]
